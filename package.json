@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "*",
+  "description": "to-do-list",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Wilson Zimthamaha Bonkuru",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "compression": "*",
+    "cors": "*",
+    "crypto": "*",
+    "dotenv": "*",
+    "express": "*",
+    "express-validator": "*",
+    "mongoose": "*",
+    "nodemailer": "^6.7.8",
+    "nodemon": "^2.0.16"
+  }
+}
